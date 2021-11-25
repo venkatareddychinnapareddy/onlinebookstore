@@ -4,6 +4,7 @@
   <artifactId>onlinebookstore</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+	<!-- webhooks generated succesfully -->
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
